@@ -1,4 +1,5 @@
 [submodule "normal_path"]
-    path = ../../../../home/archive
-    url = file:///home/saminathanviviv15pro/for_ctf/for_ctf/sub_dummy
+path = ../../../../home/archive
+url  = file:///home/saminathanviviv15pro/for_ctf/for_ctf/sub_dummy
+
 
